@@ -24,3 +24,4 @@ void PrintArr(string[] array) // метод выполняющий вывод н
     }
     Console.WriteLine();
 }
+//Commit 
