@@ -10,7 +10,7 @@ for (int i = 0; i < size; i++)// перебор элементов в масси
  if (element.Length <= limit)// если i элемент введенный пользователем будет меньше либо равен лимитному количеству символов в элементе
     {
  arrStrings[position] = element;// записываем введенные элементы в массив arrStrings в случае выполнения условия
- position++;// переходим к следующему i в массиве element
+ position++;// переходим к следующему element в массиве arrStrings[position]
     }
 }
 Console.WriteLine();
